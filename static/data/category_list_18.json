@@ -1,0 +1,95 @@
+[
+    {
+        "className": {
+            "id": "30",
+            "name": "新鲜水果"
+        },
+        "classGroup": [
+            {
+                "id": "102",
+                "name": "奇异果",
+                "class_photo": "images/group/d466d77655a472123fe60b40c631f0cd.jpg"
+            },
+            {
+                "id": "104",
+                "name": "苹果",
+                "class_photo": "images/group/46034f567b4f08768bdc7afd0f994c30.jpg"
+            },
+            {
+                "id": "105",
+                "name": "橙柑橘柚",
+                "class_photo": "images/group/e1e72e3ceb13a326ddc19bf2ee227771.jpg"
+            },
+            {
+                "id": "101",
+                "name": "樱桃",
+                "class_photo": "images/group/8f28a5033dc6e8a3964a47e43cb59945.png"
+            },
+            {
+                "id": "106",
+                "name": "梨",
+                "class_photo": "images/group/3a2d34d744997150f98f72bda850844e.jpg"
+            },
+            {
+                "id": "108",
+                "name": "牛油果",
+                "class_photo": "images/group/c9670c8de9054e868427d5c644447a92.jpg"
+            },
+            {
+                "id": "111",
+                "name": "热带水果",
+                "class_photo": "images/group/e2d0a1a8bef94a00b968b21539b01b95.png"
+            },
+            {
+                "id": "113",
+                "name": "凤梨/菠萝",
+                "class_photo": "images/group/e4a8035f0781d5422a304e621946ad7e.png"
+            },
+            {
+                "id": "114",
+                "name": "芒果",
+                "class_photo": "images/group/7d045a7c1181878aa727e97c468d4670.jpg"
+            },
+            {
+                "id": "115",
+                "name": "柠檬",
+                "class_photo": "images/group/d540710bd257faa963125323147608c9.jpg"
+            },
+            {
+                "id": "117",
+                "name": "火龙果",
+                "class_photo": "images/group/be447c4904de275531e4025f95903d9c.jpg"
+            },
+            {
+                "id": "118",
+                "name": "瓜类",
+                "class_photo": "images/group/29b6970e8817746bfee8daab24f5cf96.png"
+            },
+            {
+                "id": "119",
+                "name": "莲雾",
+                "class_photo": "images/group/e061a1a12a2e66ae88b1ff9f220a064f.jpg"
+            },
+            {
+                "id": "120",
+                "name": "桃李杏梅",
+                "class_photo": "images/group/d59d6cb3d59e4d64d49c798448200dd6.png"
+            },
+            {
+                "id": "121",
+                "name": "椰子",
+                "class_photo": "images/group/302964c48685ce8693159f6f2a66c0f5.png"
+            },
+            {
+                "id": "122",
+                "name": "木瓜",
+                "class_photo": "images/group/2cde1a29dd19cfaeb3e91df2f79b557b.jpg"
+            },
+            {
+                "id": "143",
+                "name": "特色鲜果",
+                "class_photo": "images/group/3fc525e4eb1f27622f2d59b75ea69bd7.jpg"
+            }
+        ]
+    }
+]

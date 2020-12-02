@@ -1,0 +1,139 @@
+
+.nav-top {
+	width: 100%;
+	border-bottom: 1rpx solid #C0C0C0;
+	height: 80rpx;
+	line-height: 80rpx;
+	text-align: center;
+}
+.search {
+	float: right;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 200rpx;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	position: relative;
+	top: -70rpx;
+}
+.uni-input {
+	width: 180rpx;
+}
+
+/* 第二部分 */
+.clear {
+	clear: both;
+	height: 60rpx;
+	position: relative;
+	top: -50rpx;
+}
+.swiper-tab-list1 {
+	color: #343434;
+	font-weight: bolder;
+	display: inline-block;
+	width: 33.33%;
+	height: 80rpx;
+	line-height: 80rpx;
+	text-align: center;
+	font-size: 14px;
+	background-color: #F5F5F5;
+}
+.uni-tab-bar1 .active {
+	color: #4CD964;
+}
+.icons1 {
+	float: right;
+	display: block;
+	position: relative;
+	top: -64rpx;
+	left: -20rpx;
+}
+.icons2 {
+	position: relative;
+	top: 10rpx;
+}
+.icons3 {
+	position: relative;
+	top: -10rpx;
+	left: -36rpx;
+}
+
+/* 内容 */
+.content-view {}
+.content-item {
+	border-bottom: #C0C0C0 1rpx solid;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+
+	-webkit-box-orient: horizontal;
+
+	-webkit-box-direction: normal;
+
+	-webkit-flex-direction: row;
+
+	        flex-direction: row;
+}
+.swiper-item-photo {
+	width: 100px;
+	height: 100px;
+}
+.swiper-item-text {
+	margin-left: 20rpx;
+	margin-top: 5px;
+}
+.text-product_name {
+	color: #808080;
+	font-size: 14px;
+	display: block;
+}
+.text-product_desc {
+	color: #C0C0C0;
+	font-size: 11px;
+	display: block;
+	margin-top: 3px;
+	margin-bottom: 10px;
+}
+.text-volume {
+	color: roange;
+	font-size: 11px;
+	display: block;
+	margin-bottom: 5px;
+}
+.text-image-item {
+	height: 30px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.arrival-time {
+	font-size: 14px;
+	background-color: #FF8000;
+	color: #EEEEEE;
+	-webkit-border-radius: 2px;
+	        border-radius: 2px;
+}
+.text-price {
+	color: orange;
+	margin-right: 10px;
+	width: 60px;
+}
+.text-money {
+	color: orange;
+	font-size: 10px;
+}
+.item-img {
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	right: 10px;
+}
+

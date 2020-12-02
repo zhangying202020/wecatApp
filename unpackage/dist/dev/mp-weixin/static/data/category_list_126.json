@@ -1,0 +1,40 @@
+[
+    {
+        "className": {
+            "id": "130",
+            "name": "礼盒券卡"
+        },
+        "classGroup": [
+            {
+                "id": "393",
+                "name": "端午礼盒",
+                "class_photo": "images/group/3862ea6e094bf6ab86965a4c54e26d07.jpg"
+            },
+            {
+                "id": "131",
+                "name": "礼盒礼篮",
+                "class_photo": "images/group/a3574ecf1be3335670b2f4adf2505e5f.png"
+            },
+            {
+                "id": "133",
+                "name": "组合套餐",
+                "class_photo": "images/group/0ae6677c9212a93b1b96b7a952106d00.png"
+            },
+            {
+                "id": "140",
+                "name": "充值券卡",
+                "class_photo": "images/group/04f0353ca9b26daba77fb1cc45067814.jpg"
+            },
+            {
+                "id": "302",
+                "name": "水果礼盒",
+                "class_photo": "images/group/7bc173ccb6af9d55007c3b17dfaf60e4.png"
+            },
+            {
+                "id": "432",
+                "name": "新年礼盒",
+                "class_photo": "images/group/d1768a813d614b62870ef7bf2293af9e.jpg"
+            }
+        ]
+    }
+]

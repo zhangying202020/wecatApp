@@ -1,0 +1,20 @@
+[
+    {
+        "className": {
+            "id": "29",
+            "name": "蔬菜"
+        },
+        "classGroup": [
+            {
+                "id": "93",
+                "name": "根茎类",
+                "class_photo": "images/group/796433e8799527d2cbb62a09783f8429.jpg"
+            },
+            {
+                "id": "251",
+                "name": "调味/香料",
+                "class_photo": "images/group/4fb3bd8e189be96820acfeae52b68d2e.png"
+            }
+        ]
+    }
+]

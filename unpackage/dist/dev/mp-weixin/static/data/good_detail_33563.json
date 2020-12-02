@@ -1,0 +1,44 @@
+{
+    "refundRule": "48小时退换货 ∙ 果园标准",
+    "productInfo": {
+        "product_name": "澳洲谷饲西冷牛排2181220111(33563)",
+        "product_id": "33563",
+        "product_desc": "筋肉相连 饕客有嚼头的香",
+        "op_weight": "单袋150g",
+        "price": "79.90",
+        "old_price": "79.90",
+        "cart_tag": "高性价比量贩",
+        "stock": "1287",
+        "cart_tag_list": [
+            "517特惠"
+        ],
+        "product_no": "2181220111"
+    },
+    "productItem": [
+        {
+            "id": "33563",
+            "volume": "2袋|29.95元/袋",
+            "volume_num": "2",
+            "volume_unit": "袋",
+            "price": 59.9
+        }
+    ],
+    "templateInfo": {
+        "desc_imgs": [
+            "images/up_images/15416713861709.jpg",
+            "images/up_images/1541671388619.jpg",
+            "images/up_images/15416713902290.jpg",
+            "images/up_images/15416713926130.jpg"
+        ],
+        "pro_desc": ""
+    },
+    "templatePhoto": [
+        "images/product_pic/1-370x370-6038-3WW4KT15.jpg",
+        "images/product_pic/1-370x370-6038-WAKA3R53.jpg",
+        "images/product_pic/1-370x370-6038-D6RP7D18.jpg"
+    ],
+    "promotion": [],
+    "promotionShare": [],
+    "expressMsg": "",
+    "sendTimeMsg": "最快05月17日08:00-18:00送达"
+}

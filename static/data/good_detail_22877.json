@@ -1,0 +1,58 @@
+{
+    "refundRule": "48小时退换货 ∙ 果园标准",
+    "productInfo": {
+        "product_name": "美国加州樱桃2160429104(22877)",
+        "product_id": "22877",
+        "product_desc": "一年仅一约 限量珍贵",
+        "op_weight": "",
+        "price": "138.00",
+        "old_price": "138.00",
+        "cart_tag": "",
+        "stock": "9964",
+        "cart_tag_list": [],
+        "product_no": "2160429104"
+    },
+    "productItem": [
+        {
+            "id": "35075",
+            "volume": "500g",
+            "volume_num": "0",
+            "volume_unit": "个",
+            "price": "99.00"
+        },
+        {
+            "id": "22877",
+            "volume": "1kg|69元/斤",
+            "volume_num": "1",
+            "volume_unit": "kg",
+            "price": "138.00"
+        }
+    ],
+    "templateInfo": {
+        "desc_imgs": [
+            "images/up_images/15894461422108.jpg",
+            "images/up_images/14949933867329.jpg",
+            "images/up_images/14949933872753.jpg",
+            "images/up_images/14949933903480.jpg",
+            "images/up_images/14949933918549.jpg"
+        ],
+        "pro_info": {
+            "origin": "产地",
+            "originMsg": "美国",
+            "explain": "果径",
+            "explainMsg": "26-28mm",
+            "store": "储藏方法",
+            "storeMsg": "0°及以上冷藏"
+        },
+        "pro_desc": "一年一约，限量的美好全程冷链来自加州的新鲜硬度高樱味浓回味甘"
+    },
+    "templatePhoto": [
+        "images/product_pic/1-370x370-2404-9PTW6BYS.jpg",
+        "images/product_pic/1-370x370-2404-S4BTKX57.jpg",
+        "images/product_pic/1-370x370-2404-82P97CTY.jpg",
+        "images/product_pic/1-370x370-2404-42YA2SK3.jpg",
+        "images/product_pic/1-370x370-2404-1FUPSYKP.jpg"
+    ],
+    "expressMsg": "",
+    "sendTimeMsg": "最快05月17日08:00-18:00送达"
+}

@@ -1,0 +1,91 @@
+[
+    {
+        "className": {
+            "id": "26",
+            "name": "低温速食"
+        },
+        "classGroup": [
+            {
+                "id": "75",
+                "name": "面点/面食",
+                "class_photo": "images/group/b4f08f5e692f0cdd9f87655a46d3541a.png"
+            },
+            {
+                "id": "468",
+                "name": "香肠/培根",
+                "class_photo": "images/group/3396a5d318d524ca22e4f324d64fea9e.jpg"
+            },
+            {
+                "id": "459",
+                "name": "麦片",
+                "class_photo": "images/group/adb3c3abbb7fcf4cebdb213fe394159c.jpg"
+            },
+            {
+                "id": "76",
+                "name": "火锅配料",
+                "class_photo": "images/group/05739f6e24bd956d33d4c236b65712d9.png"
+            },
+            {
+                "id": "78",
+                "name": "特色速食",
+                "class_photo": "images/group/89b10aefeac321c53601fb172b5b3a04.jpg"
+            },
+            {
+                "id": "352",
+                "name": "汤圆",
+                "class_photo": "images/group/49fcbda6f76bd5692328f383998fb930.jpg"
+            },
+            {
+                "id": "281",
+                "name": "冷冻食品",
+                "class_photo": "images/group/3345cf3a118ec88effa1bf7199d6714c.jpg"
+            },
+            {
+                "id": "415",
+                "name": "粽子/月饼",
+                "class_photo": "images/group/e6763ad9e4dc27a282f4291e32bb4e7a.jpg"
+            }
+        ]
+    },
+    {
+        "className": {
+            "id": "25",
+            "name": "乳制品"
+        },
+        "classGroup": [
+            {
+                "id": "73",
+                "name": "黄油奶酪",
+                "class_photo": "images/group/5224c630697c625ec1158174250d694e.jpg"
+            },
+            {
+                "id": "74",
+                "name": "乳酸菌",
+                "class_photo": "images/group/8da13b8331bcff0b1e0a9cd846eb00b8.png"
+            },
+            {
+                "id": "148",
+                "name": "常温牛奶",
+                "class_photo": "images/group/b881e9de9104f999d9adc896ee6fecbc.jpg"
+            },
+            {
+                "id": "147",
+                "name": "豆浆豆奶",
+                "class_photo": "images/group/0da8ca4fc4f59f6a77d39f8fd3bc1c6d.jpg"
+            }
+        ]
+    },
+    {
+        "className": {
+            "id": "461",
+            "name": "面包糕点"
+        },
+        "classGroup": [
+            {
+                "id": "462",
+                "name": "面包糕点",
+                "class_photo": "images/group/273ed2e390dd412b2358a9ab84148ca4.jpg"
+            }
+        ]
+    }
+]

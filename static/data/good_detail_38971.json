@@ -1,0 +1,42 @@
+{
+    "refundRule": "48小时退换货 ∙ 果园标准",
+    "productInfo": {
+        "product_name": "城超黑金猪肉粽21626968(38971)",
+        "product_id": "38971",
+        "product_desc": "扎实满口好料 豪横制霸端午",
+        "op_weight": "180g/个",
+        "price": "22.80",
+        "old_price": "22.80",
+        "cart_tag": "",
+        "stock": "43",
+        "cart_tag_list": [],
+        "product_no": "21626968"
+    },
+    "productItem": [
+        {
+            "id": "38971",
+            "volume": "2个",
+            "volume_num": "0",
+            "volume_unit": "袋",
+            "price": "22.80"
+        }
+    ],
+    "templateInfo": {
+        "desc_imgs": [
+            "images/up_images/15894243283896.jpg",
+            "images/up_images/15894243319213.jpg",
+            "images/up_images/15894243333697.jpg",
+            "images/up_images/15894243368442.jpg"
+        ],
+        "pro_desc": ""
+    },
+    "templatePhoto": [
+        "images/product_pic/1-370x370-8286-T4C369K2.jpg",
+        "images/product_pic/1-370x370-8286-BCXWXDAS.jpg",
+        "images/product_pic/1-370x370-8286-4RXXPDY3.jpg",
+        "images/product_pic/1-370x370-8286-5FP35CB4.jpg",
+        "images/product_pic/1-370x370-8286-BWK3HY3F.jpg"
+    ],
+    "expressMsg": "",
+    "sendTimeMsg": "最快明天08:00-18:00送达"
+}

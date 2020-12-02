@@ -1,0 +1,49 @@
+{
+    "refundRule": "48小时退换货 ∙ 果园标准",
+    "productInfo": {
+        "product_name": "海南妃子笑荔枝 2180530101(31726)",
+        "product_id": "31726",
+        "product_desc": "抢鲜一步 时令荔枝来了",
+        "op_weight": "",
+        "price": "59.90",
+        "old_price": "59.90",
+        "cart_tag": "",
+        "stock": "99438",
+        "cart_tag_list": [],
+        "product_no": "2180530101"
+    },
+    "productItem": [
+        {
+            "id": "31726",
+            "volume": "2.5kg|11.98元/斤",
+            "volume_num": "2.5",
+            "volume_unit": "kg",
+            "price": "59.90"
+        }
+    ],
+    "templateInfo": {
+        "desc_imgs": [
+            "images/up_images/15877236579969.jpg",
+            "images/up_images/15877236602204.jpg",
+            "images/up_images/1587723662453.jpg",
+            "images/up_images/15877236645658.jpg",
+            "images/up_images/15877236674066.jpg"
+        ],
+        "pro_info": {
+            "origin": "产地",
+            "originMsg": "中国",
+            "explain": "营养元素",
+            "explainMsg": "VB，VC",
+            "store": "储藏方法",
+            "storeMsg": "0°及以上冷藏"
+        },
+        "pro_desc": "嫩红泛青，正是新鲜皮薄肉厚核又小季节限定，不能少的甜"
+    },
+    "templatePhoto": [
+        "images/product_pic/1-370x370-2383-WUDRUSXF.jpg",
+        "images/product_pic/1-370x370-2383-R6UXAW45.jpg",
+        "images/product_pic/1-370x370-2383-US7BWB2C.jpg"
+    ],
+    "expressMsg": "",
+    "sendTimeMsg": "最快05月17日08:00-18:00送达"
+}

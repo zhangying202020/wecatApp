@@ -1,0 +1,76 @@
+
+.content{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		        flex-direction: row;
+		font-family: "Microsoft YaHei"
+}
+.left {
+		width: 25%;
+		font-size: 30rpx;
+		background-color: #f4f4f4;
+}
+.left view {
+		text-align: center;
+		height: 120rpx;
+		line-height: 120rpx;
+}
+.right {
+		width: 74%;
+		margin: 20;
+}
+.selected {
+		background-color: #fff;
+		border-left: 2px solid #E54847;
+		font-weight: bold;
+		color: #E54847;
+}
+.normal {
+		background-color: #f4f4f4;
+		border-bottom: 1px solid #f2f2f2;
+}
+.right-item {
+		-webkit-box-shadow: 5px 5px 5px gainsboro;
+		        box-shadow: 5px 5px 5px gainsboro;
+		margin-top: 10px;
+		margin-bottom: 20px;
+}
+.right-name {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		        justify-content: center;
+		margin-top: 10px;
+}
+.right-title {
+		font-weight: 700;
+}
+.right-list-item {
+		-webkit-flex-wrap: wrap;
+		        flex-wrap: wrap;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+}
+.right-view {
+		width: 33%;
+		text-align: center;
+}
+.right-photo {
+		width: 70px;
+		height: 70px;
+		display: block;
+}
+.right-list-name {
+		font-size: 12px;
+}
+

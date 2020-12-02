@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "每周上新",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}

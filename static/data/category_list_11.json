@@ -1,0 +1,30 @@
+[
+    {
+        "className": {
+            "id": "20",
+            "name": "冷冻水产"
+        },
+        "classGroup": [
+            {
+                "id": "37",
+                "name": "虾/虾仁",
+                "class_photo": "images/group/7ceee0b318aeef8c8a15143df51c7d62.png"
+            },
+            {
+                "id": "36",
+                "name": "冷冻鱼类",
+                "class_photo": "images/group/b04f99297c25b5296fe4a49ba86dfc40.png"
+            },
+            {
+                "id": "453",
+                "name": "鳕鱼/三文鱼",
+                "class_photo": "images/group/8eebc2d05564ef334f8b897e6bf15dd7.jpg"
+            },
+            {
+                "id": "39",
+                "name": "冷冻贝类",
+                "class_photo": "images/group/8e3971e3ccc08b2d6a3ea708a000433b.png"
+            }
+        ]
+    }
+]

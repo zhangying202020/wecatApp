@@ -1,0 +1,426 @@
+{
+    "banners": [
+        "images/banner-1.jpg",
+        "images/banner-2.jpg",
+        "images/banner-3.jpg",
+        "images/banner-4.jpg",
+        "images/banner-5.jpg"
+    ],
+    "bannerTags": [
+        {
+            "image": "images/crunchies-hot.jpg",
+            "id": 1001,
+            "hs_more": 0,
+            "content": [
+                {
+                    "title": "美国加州樱桃",
+                    "subtitle": "一年仅一约 限量珍贵",
+                    "image": "images/product_pic/1-370x370-2404-XAR8915W.jpg",
+                    "product_id": "22877",
+                    "banner_tag": "",
+                    "volume": "1kg",
+                    "guide_price": "138",
+                    "price": "138"
+                },
+                {
+                    "title": "海南妃子笑荔枝 ",
+                    "subtitle": "抢鲜一步 时令荔枝来了",
+                    "image": "images/product_pic/1-370x370-2383-6TC4AC2W.jpg",
+                    "product_id": "31726",
+                    "banner_tag": "",
+                    "volume": "2.5kg",
+                    "guide_price": "59.9",
+                    "price": "59.9"
+                },
+                {
+                    "title": "越南黑虎虾仁（中）",
+                    "subtitle": "手剥虾仁 颗颗弹力十足",
+                    "image": "images/product_pic/1-370x370-6495-WUTRUY4A.jpg",
+                    "product_id": "34448",
+                    "banner_tag": "517特惠",
+                    "volume": "4袋",
+                    "guide_price": "119.9",
+                    "price": "99"
+                },
+                {
+                    "title": "佳沛新西兰阳光金奇异果(巨无霸plus)",
+                    "subtitle": "一口爆浆超过瘾",
+                    "image": "images/product_pic/1-370x370-20792-1X11YD69.jpg",
+                    "product_id": "20792",
+                    "banner_tag": "",
+                    "volume": "6个",
+                    "guide_price": "89",
+                    "price": "89"
+                },
+                {
+                    "title": "佳沛新西兰阳光金奇异果(巨无霸)",
+                    "subtitle": "能量巨果 一口爆浆过瘾",
+                    "image": "images/product_pic/1-370x370-2602-372F7AKT.jpg",
+                    "product_id": "34432",
+                    "banner_tag": "",
+                    "volume": "6个",
+                    "guide_price": "79",
+                    "price": "79"
+                },
+                {
+                    "title": "甄选佳沛新西兰绿奇异果",
+                    "subtitle": "清新绿果 酸甜多汁",
+                    "image": "images/product_pic/1-370x370-6254-KFKSYD28.jpg",
+                    "product_id": "38826",
+                    "banner_tag": "",
+                    "volume": "6个",
+                    "guide_price": "39.9",
+                    "price": "39.9"
+                },
+                {
+                    "title": "越南红心火龙果（大）",
+                    "subtitle": "不仅甜，还是润肠通畅小帮手哦",
+                    "image": "images/product_pic/1-370x370-5-81SX15YY.jpg",
+                    "product_id": "35408",
+                    "banner_tag": "",
+                    "volume": "2kg",
+                    "guide_price": "89",
+                    "price": "79.9"
+                },
+                {
+                    "title": "南汇玉菇甜瓜",
+                    "subtitle": "上海小菇凉 酥酥的甜",
+                    "image": "images/product_pic/1-370x370-2235-UWDABY91.jpg",
+                    "product_id": "38575",
+                    "banner_tag": "",
+                    "volume": "4个",
+                    "guide_price": "89",
+                    "price": "89"
+                },
+                {
+                    "title": "嫩脆晓蜜瓜",
+                    "subtitle": "脆口飚多汁 嚼到瓜皮也好甜​",
+                    "image": "images/product_pic/1-370x370-6415-5A11331P.jpg",
+                    "product_id": "36484",
+                    "banner_tag": "",
+                    "volume": "2个",
+                    "guide_price": "69.9",
+                    "price": "49.9"
+                },
+                {
+                    "title": "皇冠梨",
+                    "subtitle": "甜脆多水分 炖梨就用它",
+                    "image": "images/product_pic/1-370x370-3442-56R68768.jpg",
+                    "product_id": "32787",
+                    "banner_tag": "",
+                    "volume": "5kg",
+                    "guide_price": "58.8",
+                    "price": "68"
+                },
+                {
+                    "title": "新疆绿香妃葡萄干",
+                    "subtitle": "超过2000年历史 新疆本地都爱​",
+                    "image": "images/product_pic/1-370x370-6062-KWXCWCUR.jpg",
+                    "product_id": "33475",
+                    "banner_tag": "",
+                    "volume": "150g",
+                    "guide_price": "29.9",
+                    "price": "29.9"
+                },
+                {
+                    "title": "Calbee水果麦片",
+                    "subtitle": "日本卡乐比 开袋即食嘎嘣甜",
+                    "image": "images/product_pic/1-370x370-6498-HB8WA47A.jpg",
+                    "product_id": "34628",
+                    "banner_tag": "",
+                    "volume": "500g",
+                    "guide_price": "49.9",
+                    "price": "49.9"
+                }
+            ]
+        },
+        {
+            "image": "images/crunchies-limit.jpg",
+            "id": 1002,
+            "hs_more": 0,
+            "content": [
+                {
+                    "title": "澳洲谷饲西冷牛排",
+                    "subtitle": "筋肉相连 饕客有嚼头的香",
+                    "image": "images/product_pic/1-370x370-6038-DHYXK193.jpg",
+                    "product_id": "33563",
+                    "banner_tag": "517特惠",
+                    "volume": "2袋",
+                    "guide_price": "79.2",
+                    "price": "59.9"
+                },
+                {
+                    "title": "日本青研苹果汁",
+                    "subtitle": "100%苹果原汁 不加水不加糖​",
+                    "image": "images/product_pic/1-370x370-5936-RYDUW11P.jpg",
+                    "product_id": "37461",
+                    "banner_tag": "限时特惠",
+                    "volume": "2瓶",
+                    "guide_price": "79",
+                    "price": "78"
+                },
+                {
+                    "title": "金字五香牛肉        ",
+                    "subtitle": "老卤精制 冷盘好菜​",
+                    "image": "images/product_pic/1-370x370-7567-P1F582SK.jpg",
+                    "product_id": "37179",
+                    "banner_tag": "限时特惠",
+                    "volume": "180g",
+                    "guide_price": "52",
+                    "price": "46"
+                },
+                {
+                    "title": "皮卡思颗粒花生酱(有盐颗粒) ",
+                    "subtitle": "小红书好评10000+",
+                    "image": "images/product_pic/1-370x370-6529-DRDHY4KR.jpg",
+                    "product_id": "34770",
+                    "banner_tag": "限时特惠",
+                    "volume": "380g",
+                    "guide_price": "69",
+                    "price": "49.9"
+                },
+                {
+                    "title": "轩妈蛋黄酥6枚装",
+                    "subtitle": "一年热卖6000万颗的甜糯",
+                    "image": "images/product_pic/1-370x370-8226-2W6D6XDF.jpg",
+                    "product_id": "38802",
+                    "banner_tag": "",
+                    "volume": "2盒",
+                    "guide_price": "79",
+                    "price": "79"
+                },
+                {
+                    "title": "麦提莎兔型麦芽夹心代可可脂牛奶巧克力制品       ",
+                    "subtitle": "复活节小兔子 蹦蹦跳跳给你甜",
+                    "image": "images/product_pic/1-370x370-8125-K5T2FW2B.jpg",
+                    "product_id": "38505",
+                    "banner_tag": "限时特惠",
+                    "cart_tag_list": [
+                        "限时特惠"
+                    ],
+                    "volume": "29g",
+                    "guide_price": "12.8",
+                    "price": "9.9"
+                },
+                {
+                    "title": "爱到骨子里黑胡椒盐",
+                    "subtitle": "新鲜研磨瓶 味浓秒杀黑椒粉",
+                    "image": "images/product_pic/1-370x370-4041-PSC97965.jpg",
+                    "product_id": "27730",
+                    "default_sort": "10",
+                    "banner_tag": "限时特惠",
+                    "cart_tag_list": [
+                        "限时特惠"
+                    ],
+                    "volume": "200g",
+                    "guide_price": "68",
+                    "price": "59.9"
+                },
+                {
+                    "title": "带皮羊肉块（去骨）",
+                    "subtitle": "来自内蒙古草原的鲜嫩",
+                    "image": "images/product_pic/1-370x370-7159-A1X54H25.jpg",
+                    "product_id": "36360",
+                    "banner_tag": "",
+                    "volume": "500g",
+                    "guide_price": "89",
+                    "price": "89"
+                },
+                {
+                    "title": "薄荷高纤奇亚籽苏打饼干256g",
+                    "subtitle": "饱腹奇亚籽 麦香轻负担",
+                    "image": "images/product_pic/1-370x370-37229-7CRYD95S.jpg",
+                    "product_id": "37229",
+                    "banner_tag": "限时特惠",
+                    "volume": "5盒",
+                    "guide_price": "89",
+                    "price": "69"
+                },
+                {
+                    "title": "佰素康城超联名原味红松籽仁",
+                    "subtitle": "大果仁 盖不住的山林香",
+                    "image": "images/product_pic/1-370x370-7514-PK3372RU.jpg",
+                    "product_id": "37068",
+                    "banner_tag": "限时特惠",
+                    "volume": "150g",
+                    "guide_price": "78.8",
+                    "price": "65"
+                }
+            ]
+        },
+        {
+            "image": "images/crunchies-week.jpg",
+            "id": 480,
+            "hs_more": 1,
+            "content": [
+                {
+                    "title": "城超黑金猪肉粽",
+                    "subtitle": "扎实满口好料 豪横制霸端午",
+                    "image": "images/product_pic/1-370x370-8286-X4B5P3SS.jpg",
+                    "product_id": "38971",
+                    "banner_tag": "",
+                    "volume": "2个",
+                    "guide_price": "22.8",
+                    "price": "22.8"
+                },
+                {
+                    "title": " 西贡小姐综合蔬果干",
+                    "subtitle": "多种甜美 一袋尽收",
+                    "image": "images/product_pic/1-370x370-8313-823K7UX5.jpg",
+                    "product_id": "39017",
+                    "banner_tag": "",
+                    "volume": "100g",
+                    "guide_price": "13.6",
+                    "price": "13.6"
+                },
+                {
+                    "title": "Totaste（土斯）九蔬小饼 200g        ",
+                    "subtitle": "严选食材 香脆可口",
+                    "image": "images/product_pic/1-370x370-8311-PP73W519.jpg",
+                    "product_id": "39016",
+                    "banner_tag": "517特惠",
+                    "volume": "200g",
+                    "guide_price": "19.9",
+                    "price": "9.9"
+                },
+                {
+                    "title": "燕太太尊品燕窝粽",
+                    "subtitle": " 燕舞浓情 美味出“粽”",
+                    "image": "images/product_pic/1-370x370-8309-D92CRCUW.jpg",
+                    "product_id": "39014",
+                    "banner_tag": "",
+                    "volume": "480g",
+                    "guide_price": "228",
+                    "price": "228"
+                },
+                {
+                    "title": "炫迈活力蓝莓味28片无糖口香糖",
+                    "subtitle": "美味持久 久到离谱",
+                    "image": "images/product_pic/1-370x370-8302-AP8FBAFT.jpg",
+                    "product_id": "39002",
+                    "banner_tag": "",
+                    "volume": "1盒",
+                    "guide_price": "10.9",
+                    "price": "10.9"
+                },
+                {
+                    "title": "LU露怡巧克力味香脆威化卷饼干 ",
+                    "subtitle": "浓厚酥脆 伴手礼的上佳选择",
+                    "image": "images/product_pic/1-370x370-8301-18615K57.jpg",
+                    "product_id": "39001",
+                    "banner_tag": "517特惠",
+                    "volume": "234g",
+                    "guide_price": "32.8",
+                    "price": "29.9"
+                },
+                {
+                    "title": "泰国山竹",
+                    "subtitle": "5-6A高品质  大果 , 肉更饱满",
+                    "image": "images/product_pic/1-370x370-639-CFYK9T3B.jpg",
+                    "product_id": "28242",
+                    "banner_tag": "",
+                    "volume": "1kg",
+                    "guide_price": "79",
+                    "price": "59.9"
+                },
+                {
+                    "title": "优选四川安岳柠檬",
+                    "subtitle": "酸而不涩 泡茶&料理都方便",
+                    "image": "images/product_pic/1-370x370-34-HC5KWXT6.jpg",
+                    "product_id": "26485",
+                    "banner_tag": "",
+                    "volume": "8个",
+                    "guide_price": "0",
+                    "price": "19.9"
+                }
+            ]
+        },
+        {
+            "image": "images/crunchies-seasonal.jpg",
+            "id": 0,
+            "hs_more": 1,
+            "content": [
+                {
+                    "title": "象山白沙枇杷",
+                    "subtitle": "五月天枇杷甜 时令只仙10天",
+                    "image": "images/product_pic/1-370x370-6628-4WCXAA47.jpg",
+                    "product_id": "39122",
+                    "banner_tag": "",
+                    "volume": "1kg",
+                    "guide_price": "69.9",
+                    "price": "69.9"
+                },
+                {
+                    "title": "泰国释迦",
+                    "subtitle": "软了才能吃 这滋味比蜜甜",
+                    "image": "images/product_pic/1-370x370-5921-633S16W2.jpg",
+                    "product_id": "35871",
+                    "banner_tag": "",
+                    "volume": "2个",
+                    "guide_price": "99",
+                    "price": "99"
+                },
+                {
+                    "title": "新西兰皇后红玫瑰苹果",
+                    "subtitle": "带着玫瑰的红 透着玫瑰清香",
+                    "image": "images/product_pic/1-370x370-5412-2B6T95A6.jpg",
+                    "product_id": "34542",
+                    "banner_tag": "",
+                    "volume": "20个",
+                    "guide_price": "99",
+                    "price": "89"
+                },
+                {
+                    "title": "新西兰皇家姬娜苹果",
+                    "subtitle": "红苹果+蛇果 融合多滋果味",
+                    "image": "images/product_pic/1-370x370-2095-A5RRT2SA.jpg",
+                    "product_id": "25513",
+                    "banner_tag": "",
+                    "volume": "20个",
+                    "guide_price": "89",
+                    "price": "89"
+                },
+                {
+                    "title": "优选新奇士美国晚熟脐橙 ",
+                    "subtitle": "纯甜多汁 黑标荣誉",
+                    "image": "images/product_pic/1-370x370-2172-F276S25T.jpg",
+                    "product_id": "35189",
+                    "banner_tag": "",
+                    "volume": "6个",
+                    "guide_price": "39.4",
+                    "price": "49.9"
+                },
+                {
+                    "title": "金蜜香芒果",
+                    "subtitle": "甜糯金灿灿 甜品界主力",
+                    "image": "images/product_pic/1-370x370-684-1FDTPBF7.jpg",
+                    "product_id": "33253",
+                    "banner_tag": "",
+                    "volume": "2kg",
+                    "guide_price": "69.9",
+                    "price": "69.9"
+                },
+                {
+                    "title": "海南小台农芒果",
+                    "subtitle": "小巧甜糯 萌翻掌心 ",
+                    "image": "images/product_pic/1-370x370-27-U6A6HP4U.jpg",
+                    "product_id": "37270",
+                    "banner_tag": "",
+                    "volume": "2kg",
+                    "guide_price": "69.9",
+                    "price": "49.9"
+                },
+                {
+                    "title": "菲律宾凤梨",
+                    "subtitle": "清甜滋味无需盐水",
+                    "image": "images/product_pic/1-370x370-13648-5161P137.jpg",
+                    "product_id": "13648",
+                    "banner_tag": "",
+                    "volume": "1个",
+                    "guide_price": "29.9",
+                    "price": "19.9"
+                }
+            ]
+        }
+    ]
+}

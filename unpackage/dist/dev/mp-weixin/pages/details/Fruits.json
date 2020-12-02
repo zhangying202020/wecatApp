@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "新鲜水果",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "swiper-tab": "/pages/src/module"
+  }
+}

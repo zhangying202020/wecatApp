@@ -1,0 +1,47 @@
+{
+    "refundRule": "48小时退换货 ∙ 果园标准",
+    "productInfo": {
+        "product_name": "象山白沙枇杷2200513190(39122)",
+        "product_id": "39122",
+        "product_desc": "五月天枇杷甜 时令只仙10天",
+        "op_weight": "",
+        "price": "69.90",
+        "old_price": "69.90",
+        "cart_tag": "",
+        "stock": "9975",
+        "cart_tag_list": [],
+        "product_no": "2200513190"
+    },
+    "productItem": [
+        {
+            "id": "39121",
+            "volume": "500g",
+            "volume_num": "0",
+            "volume_unit": "个",
+            "price": "39.90"
+        },
+        {
+            "id": "39122",
+            "volume": "1kg|34.95元/斤",
+            "volume_num": "1",
+            "volume_unit": "kg",
+            "price": "69.90"
+        }
+    ],
+    "templateInfo": {
+        "desc_imgs": [
+            "images/up_images/15578990655355.jpg",
+            "images/up_images/15578990661361.jpg",
+            "images/up_images/15578990683798.jpg",
+            "images/up_images/15578990714075.jpg"
+        ],
+        "pro_desc": null
+    },
+    "templatePhoto": [
+        "images/product_pic/1-370x370-6628-4KH7K733.jpg",
+        "images/product_pic/1-370x370-6628-YUKXP69U.jpg",
+        "images/product_pic/1-370x370-6628-T52146KT.jpg"
+    ],
+    "expressMsg": "",
+    "sendTimeMsg": "最快明天08:00-18:00送达"
+}

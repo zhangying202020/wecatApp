@@ -1,0 +1,54 @@
+
+view.data-v-4b7bcc0a {
+	font-size: 20rpx;
+}
+.Limg.data-v-4b7bcc0a {
+	width: 730rpx;
+	height: 320rpx;
+	padding: 10rpx;
+}
+.bigcontainer.data-v-4b7bcc0a {
+	padding: 10rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.container.data-v-4b7bcc0a {
+	width: 125rpx;
+	font-size: 28rpx;
+}
+.buttonimg.data-v-4b7bcc0a {
+	margin: auto;
+	display: block;
+	width: 75rpx;
+	height: 75rpx;
+}
+
+/* 榜单图片 */
+.crunchies.data-v-4b7bcc0a{height: 180rpx;
+}
+.cruImage.data-v-4b7bcc0a{ height: 150rpx;
+}
+.cartImage.data-v-4b7bcc0a{height: 60rpx;width: 60rpx;}
+.scroll-view_H.data-v-4b7bcc0a {
+	width: 100%;
+	height: 350rpx;
+	white-space: nowrap;
+}
+.scroll-view-item_H.data-v-4b7bcc0a {
+	display: inline-block;
+	width: 34%;
+	height: 300rpx;
+	text-align: center;
+	font-size: 36rpx;
+}
+.scroll-img.data-v-4b7bcc0a {
+	width: 100%;
+	height: 74%;
+}
+
